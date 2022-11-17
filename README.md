@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Swatisinghfw22-0003
+- 👋 Hii, I’m @Swatisingh.
 - 👀 I’m interested in Web Dovelopment 
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning full stack..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me swativishal8266@gmail.com
 
